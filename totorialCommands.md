@@ -36,4 +36,6 @@ The teacher said:
 - ненумерованный.
 
       вложение
-- список
+- список.
+
+![kitty_description](/Users/zenavejber/Downloads)
