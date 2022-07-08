@@ -25,5 +25,7 @@ git checkout commit_number
 ```
 git checkout master
 ```
-
-дз добавить еще разные команды типа коммит лог дифф
+## Для просмотра разницы между коммитом и последней версией
+```
+git diff commit_number
+```
