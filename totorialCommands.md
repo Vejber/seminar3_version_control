@@ -29,3 +29,5 @@ git checkout master
 ```
 git diff commit_number
 ```
+The teacher said:
+>git is very useful for working in a team
