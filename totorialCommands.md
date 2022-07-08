@@ -17,5 +17,13 @@ git commit -m"message"
 ```
 git log
 ```
+Для просмотра конкретного коммита
+```
+git checkout commit_number
+```
+Для возврата в master
+```
+git checkout master
+```
 
 дз добавить еще разные команды типа коммит лог дифф
