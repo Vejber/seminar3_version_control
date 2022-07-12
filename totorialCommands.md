@@ -43,3 +43,8 @@ The teacher said:
 Here is the link to the pic above [kitty_description](https://www.google.com/imgres?imgurl=http%3A%2F%2Fmemesmix.net%2Fmedia%2Fcreated%2Fsr76w7.jpg&imgrefurl=http%3A%2F%2Fmemesmix.net%2Fmeme%2Fsr76w7&tbnid=Oq3WcohabWcI4M&vet=12ahUKEwiqweuy_-j4AhXHgSoKHTLgAq4QMygBegUIARC8AQ..i&docid=GhY0K_aBcLWpCM&w=600&h=586&q=%D0%BC%D0%B5%D0%BC%20%D1%81%20%D0%BA%D0%BE%D1%82%D0%B5%D0%BD%D0%BA%D0%BE%D0%BC%20%D1%83%D1%87%D0%B5%D0%B1%D0%B0%20&ved=2ahUKEwiqweuy_-j4AhXHgSoKHTLgAq4QMygBegUIARC8AQ)
 
 My email is <vejber2013@gmail.com>
+
+## How to create a new branch
+```
+git branch branch_name
+```
