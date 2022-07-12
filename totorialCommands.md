@@ -48,3 +48,7 @@ My email is <vejber2013@gmail.com>
 ```
 git branch branch_name
 ```
+## How to delete a branch
+```
+git branch -d branch_name
+```
