@@ -54,4 +54,4 @@ git branch -d branch_name
 ```
 ### Homework
 
- 
+ conflict 6
