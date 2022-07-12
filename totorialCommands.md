@@ -57,4 +57,4 @@ git branch -d branch_name
 1. Conflict branch 1
 Today 12.07.22 I saw a storm for the first time
 2. branch 2
-Strangely there was no conflict in branch 1 so let's try to created one in branch 2
+The Baltic sea is beautiful
