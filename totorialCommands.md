@@ -54,4 +54,5 @@ git branch -d branch_name
 ```
 ### Homework
 
-1. Branch 1
+1. Conflict branch 1
+Today 12.07.22 I saw a storm for the first time
