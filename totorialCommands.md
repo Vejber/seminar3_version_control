@@ -54,6 +54,4 @@ git branch -d branch_name
 ```
 ### Homework
 
-1. Conflict branch 1
-Today 12.07.22 I saw a storm for the first time
-2. Try #3 to create a conflict
+conflict conflict conflict conflict
