@@ -54,4 +54,7 @@ git branch -d branch_name
 ```
 ### Homework
 
+ conflict 6
+### last_branch
+Thank you and good buy
  try 6
