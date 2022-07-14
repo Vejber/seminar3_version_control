@@ -52,6 +52,11 @@ git branch branch_name
 ```
 git branch -d branch_name
 ```
+
+## How to rebase a current branch to the last commit of another branch
+```
+git rebase another_branch_name
+```
 ### Homework
 
  conflict 6
