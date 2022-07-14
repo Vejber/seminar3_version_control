@@ -62,6 +62,9 @@ git merge branch_name
 ```
 git rebase another_branch_name
 ```
+## How to rebase:
+![rebase](rebase.png)
+
 ### Homework
 
  conflict 6
