@@ -71,3 +71,5 @@ git rebase another_branch_name
 ### last_branch
 Thank you and good buy
  try 6
+
+ try push 
